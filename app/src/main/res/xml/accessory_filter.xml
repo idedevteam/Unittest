@@ -1,0 +1,18 @@
+<resources>
+    <usb-accessory
+        manufacturer="GBManiac"
+        model="AndroidUSBHost"
+        description="Example sketch for the USB Host Shield"
+        version="1.0"
+        uri="http://www.tkjelectronics.dk/uploads/ArduinoBlinkLED.apk"
+        serial="123456789"
+        />
+    <usb-accessory
+        manufacturer= "fusi"
+        model= "ivc"
+        description= "inter_vehicle_communication"
+        version = "1.0"
+        uri= "http://fusi.co.id"
+        serial= "1234567" />
+    <usb-accessory manufacturer="ammlab.org" model="HelloADK" version="1.0"/>
+</resources>

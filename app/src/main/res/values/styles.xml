@@ -1,0 +1,42 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="android:textColorSecondary">@color/textColorSecondary</item>
+        <item name="android:editTextColor">@color/editTextColor</item>
+        <item name="android:textColorHint">@color/textColorHint</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+    <style name="DialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/dialog_in</item>
+        <item name="android:windowExitAnimation">@anim/dialog_out</item>
+    </style>
+
+    <style name="RightMenuDay">
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:textColorSecondary">@color/baseNight</item>
+    </style>
+
+    <style name="RightMenuNight">
+        <item name="android:textColor">@color/colorAccentLight</item>
+        <item name="android:textColorSecondary">@color/baseDay</item>
+    </style>
+
+    <style name="loadingDay">
+        <item name="mBackground">@drawable/background_day</item>
+        <item name="mBackgroundLand">@drawable/background_day_land</item>
+    </style>
+    <style name="loadingNight">
+        <item name="mBackground">@drawable/background_night</item>
+        <item name="mBackgroundLand">@drawable/background_night_land</item>
+    </style>
+</resources>

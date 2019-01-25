@@ -1,0 +1,18 @@
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="48dp"
+    android:width="48dp"
+    android:viewportHeight="48.0"
+    android:viewportWidth="48.0"
+    >
+    <path
+        android:strokeColor="@color/colorAccent"
+        android:fillColor="@color/baseDay"
+        android:strokeWidth="2"
+        android:pathData="M24,8a16,16 0 0 0 0,32a16,16 0 0 0 0,-32"
+        />
+    <path
+        android:fillColor="@color/baseNight"
+        android:pathData="M25.63,14.4a9,9 0 1 1 -9.81,14.02A9,9 0 0 0  25.63,14.4"
+        />
+</vector>

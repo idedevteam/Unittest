@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#da1b23</color>
+    <color name="colorAccentLight">#ef5350</color>
+    <color name="appBorderColor">#ccffffff</color>
+    <color name="highlight">#fafafa</color>
+    <color name="header_blue">#005ca8</color>
+    <color name="header_blue_fade">#00005ca8</color>
+    <color name="arrow_orange">#fd8b04</color>
+    <color name="arrow_orange_fade">#00fd8b04</color>
+    <color name="textColorSecondary">#ffffff</color>
+    <color name="editTextColor">#ccffffff</color>
+    <color name="textColorHint">#cccccccc</color>
+
+    <color name="baseBlue">#0b8ed2</color>
+    <color name="baseGreen">#9afe00</color>
+    <color name="baseOrange">#e48535</color>
+    <color name="baseOrangeFade">#80e48535</color>
+    <color name="baseRed">#ad252f</color>
+    <color name="Red">#f00</color>
+
+    <color name="baseNight">#101010</color>
+    <color name="baseDay">#ededed</color>
+    <color name="accentNight">#454545</color>
+    <color name="accentDay">#b3b3b3</color>
+    <color name="midtone">#807a7a7a</color>
+    <color name="circleDay">#d4d4d4</color>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <item android:id="@+id/accent"
+        android:drawable="@drawable/center_accent_night_mode_on"
+        android:gravity="center"
+        />
+    <item android:id="@+id/hexagon_sisa"
+        android:gravity="center_horizontal|bottom"
+        android:drawable="@drawable/center_sisa_on"
+        android:bottom="18dp"
+        />
+    <item android:id="@+id/hexagon_trip"
+        android:gravity="top|left"
+        android:drawable="@drawable/center_trip_on"
+        android:top="61dp"
+        android:left="21dp"
+        />
+    <item android:id="@+id/hexagon_odo"
+        android:gravity="top|right"
+        android:drawable="@drawable/center_odo_on"
+        android:top="61dp"
+        android:right="21dp"
+        />
+
+</layer-list>

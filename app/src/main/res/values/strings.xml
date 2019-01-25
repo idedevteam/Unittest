@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">SmartDashboard</string>
+    <string name="torque">Torsi\t\t\n  </string>
+    <string name="mode_eco">ECO</string>
+    <string name="mode_normal">NORM</string>
+    <string name="mode_sport">SPORT</string>
+    <string name="sisa">SISA</string>
+    <string name="not_available">Ø</string>
+    <string name="trip">TRIP</string>
+    <string name="odometer">ODO</string>
+    <string name="km_h">km/h</string>
+    <string name="info_id">ID</string>
+    <string name="info_id_motor">ID Motor</string>
+    <string name="info_id_frame">Frame ID</string>
+    <string name="info_level">Level</string>
+    <string name="info_voltage">Tegangan</string>
+    <string name="info_current">Arus</string>
+    <string name="info_temperature">Temperatur</string>
+    <string name="informasi_baterai">informasi baterai</string>
+    <string name="reset_tripmeter">Mengatur ulang Tripmeter\nApakah Anda yakin?</string>
+    <string name="choice_positive">Ya</string>
+    <string name="choice_cancel">Batal</string>
+    <string name="informasi_kendaraan">INFORMASI KENDARAAN</string>
+    <string name="motor">MOTOR</string>
+    <string name="baterai">BATERAI</string>
+    <string name="ivc">IVC</string>
+    <string name="info_id_battery">ID Baterai</string>
+    <string name="info_id_ivc">ID IVC</string>
+    <string name="info_ivc_battery">Baterai IVC</string>
+    <string name="info_ivc_status">Status IVC</string>
+    <string name="ivc_tidak_terdeteksi">IVC Tidak\nTerdeteksi</string>
+
+    <string name="expiration_status_none">None</string>
+    <string name="expiration_status_past">Password expired %1$s ago</string>
+    <string name="expiration_status_future">Password will expire %1$s from now</string>
+    <!-- Strings used by the sample DeviceAdminReceiver -->
+    <string name="admin_receiver_status">Sample Device Admin: %1$s</string>
+    <string name="admin_receiver_status_enabled">enabled</string>
+    <string name="admin_receiver_status_disabled">disabled</string>
+    <string name="admin_receiver_status_pw_changed">pw changed</string>
+    <string name="admin_receiver_status_pw_failed">pw failed</string>
+    <string name="admin_receiver_status_pw_succeeded">pw succeeded</string>
+    <string name="admin_receiver_status_disable_warning">
+        This is an optional message to warn the user about disabling.</string>
+    <string name="km">km</string>
+</resources>

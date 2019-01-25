@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="360dp"
+    android:width="360dp"
+    android:viewportHeight="360"
+    android:viewportWidth="360">
+
+    <path
+        android:fillColor="@color/circleDay"
+        android:pathData="M180,0A180,180 0 0 0 180,360A180,180 0 0 0 180,0
+        v52 a64,64 0 0 1 0,256 a64,64 0 0 1 0,-256z"
+        />
+    <path
+        android:fillColor="@color/circleDay"
+        android:pathData="M180,74a106,106 0 0 0 0,212a106,106 0 0 0 0,-212
+        v44a62,62 0 0 1 0,124a62,62 0 0 1 0,-124z"
+        />
+</vector>
